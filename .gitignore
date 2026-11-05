@@ -1,0 +1,10 @@
+__pycache__/
+*.egg-info/
+build/
+dist/
+.venv/
+config.toml
+data/
+*.sqlite3*
+*.log
+envi-daq-demo/
