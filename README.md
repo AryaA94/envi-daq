@@ -12,7 +12,6 @@ that: transfers resume where they dropped instead of starting over, corrupted
 files get re-downloaded, and nothing gets saved under its final name until it
 passes all the checks.
 
-![dashboard](docs/dashboard.png)
 
 Python 3.11+, no dependencies outside the standard library.
 
